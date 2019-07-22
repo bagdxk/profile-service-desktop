@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "profile-service-desktop", "profile-service-desktop\profile-service-desktop.csproj", "{FD83F1FB-826B-4744-8361-2F0BF3308422}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "profile-service-desktop", "src\profile-service-desktop\profile-service-desktop.csproj", "{FD83F1FB-826B-4744-8361-2F0BF3308422}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

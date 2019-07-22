@@ -1,7 +1,7 @@
-﻿<Application x:Class="profile_service_desktop.App"
+﻿<Application x:Class="Bagdxk.Profile.Service.Desktop.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:profile_service_desktop"
+             xmlns:local="clr-namespace:Bagdxk.Profile.Service.Desktop"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
